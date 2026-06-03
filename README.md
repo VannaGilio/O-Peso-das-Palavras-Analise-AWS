@@ -6,12 +6,12 @@
 
 ## 👥 Autores
 
-| Nome | LinkedIn |
-|------|----------|
-| Giovanna Coelho Gilio de Sá | [vanna-gilio](https://www.linkedin.com/in/vanna-gilio/) |
-| Gustavo Gomes Jacinto | — |
-| Beatriz Boletini Julião | [beatriz-boletini](https://www.linkedin.com/in/beatriz-boletini-95b6b5295/) |
-| Enzo Preite Fontes | [enzo-preite](https://www.linkedin.com/in/enzo-preite/) |
+| Nome | LinkedIn | Email |
+|------|----------|-------|
+| Giovanna Coelho Gilio de Sá | [vanna-gilio](https://www.linkedin.com/in/vanna-gilio/) | 07gilio@gmail.com |
+| Gustavo Gomes Jacinto | — | gustavo10.ggj@gmail.com |
+| Beatriz Boletini Julião | [beatriz-boletini](https://www.linkedin.com/in/beatriz-boletini-95b6b5295/) | boletinibeatriz@gmail.com |
+| Enzo Preite Fontes | [enzo-preite](https://www.linkedin.com/in/enzo-preite/) | preiteenzo08@gmail.com |
 
 ---
 
